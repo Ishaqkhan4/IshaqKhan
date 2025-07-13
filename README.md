@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ishaq Khan</h1>
 <h3 align="center">Aspiring Software Engineer | Web Developer | Data Analyst</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 
 <h2 align="center">💫 About Me</h2>
 
