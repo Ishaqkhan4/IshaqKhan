@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
 
 <h2 align="center">💫 About Me</h2>
 
@@ -17,7 +16,6 @@
 🧠 Passionate about continuous learning and building real-world solutions
 </p>
 
----
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -50,7 +48,6 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </p>
 
----
 
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -62,7 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
 </p>
 
----
 
 <h2 align="center">🔗 Connect with Me</h2>
 
