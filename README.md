@@ -63,7 +63,7 @@
 <h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:your-email@example.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/ishaq-khan-514036352/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:ishaq39536@gmail.com">Gmail</a> • 
   <a href="https://your-portfolio.com/">Portfolio</a>
 </p>
