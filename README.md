@@ -7,19 +7,21 @@
 
 ---
 
-### 💫 About Me
+<h2 align="center">💫 About Me</h2>
 
-- 🎓 BS in Computer Science (Final Year Student)  
-- 💼 Focused on **ASP.NET Core**, **C#**, **SQL**, and **Power BI**
-- 📊 Practicing **data analysis** using SQL, Power BI, and Tableau
-- 🌱 Currently exploring **Azure** and **Cloud Fundamentals**
-- 🧠 Passionate about continuous learning and building real-world solutions
+<p align="center">
+🎓 BS in Computer Science (Final Year Student) <br>
+💼 Focused on <strong>ASP.NET Core</strong>, <strong>C#</strong>, <strong>SQL</strong>, and <strong>Power BI</strong> <br>
+📊 Practicing <strong>data analysis</strong> using SQL, Power BI, and Tableau <br>
+🌱 Currently exploring <strong>Azure</strong> and <strong>Cloud Fundamentals</strong> <br>
+🧠 Passionate about continuous learning and building real-world solutions
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-#### 👨‍💻 Languages
+<h4 align="center">👨‍💻 Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -28,7 +30,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### ⚙️ Frameworks & Libraries
+<h4 align="center">⚙️ Frameworks & Libraries</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -36,7 +38,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-#### 🛠 Tools & Platforms
+<h4 align="center">🛠 Tools & Platforms</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -50,7 +52,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
@@ -62,7 +64,7 @@
 
 ---
 
-### 🔗 Connect with Me
+<h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">LinkedIn</a> • 
