@@ -59,11 +59,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
 </p>
 
-
-<h2 align="center">🔗 Connect with Me</h2>
-
-<p align="center">
   <div align="center">
+<h2>🔗 Connect with Me</h2>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaq39536@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaq-khan-514036352/)
   <a href="https://your-portfolio.com/">Portfolio</a>
