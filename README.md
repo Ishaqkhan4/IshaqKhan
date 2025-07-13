@@ -1,4 +1,4 @@
-![head](https://github.com/Ishaqkhan4/Ishaqkhan4//blob/main/ishaq.png)
+![head](https://github.com/Ishaqkhan4/Ishaqkhan4/blob/main/ishaq.png)
 <h1 align="center">Hi 👋, I'm Ishaq Khan</h1>
 <h3 align="center">Aspiring Software Engineer | Web Developer | Data Analyst</h3>
 
