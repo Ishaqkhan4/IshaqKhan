@@ -10,7 +10,7 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-🎓 BS in Computer Science (Final Year Student) <br>
+🎓 Computer Science Graduate <br>
 💼 Focused on <strong>ASP.NET Core</strong>, <strong>C#</strong>, <strong>SQL</strong>, and <strong>Power BI</strong> <br>
 📊 Practicing <strong>data analysis</strong> using SQL, Power BI, and Tableau <br>
 🌱 Currently exploring <strong>Azure</strong> and <strong>Cloud Fundamentals</strong> <br>
